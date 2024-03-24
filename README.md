@@ -30,6 +30,10 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
+      <img width="12" />
+      <img src="https://pei.com/wp-content/uploads/2016/08/maxresdefaultreduced.jpg" height="30" alt="powerbi logo"  />
+      <img width="12" />
+      <img src="https://digitalanalystteam.com/wp-content/uploads/2022/11/Google-looker-studio.jpg" height="30" alt="lookerstudio logo"  />
     </div>
   </div>
 </div>
