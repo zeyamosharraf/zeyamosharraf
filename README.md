@@ -8,7 +8,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeyamosharraf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   </div>
 
-<img src="https://t3.ftcdn.net/jpg/06/84/20/02/360_F_684200229_OfhU5JxvtgL3TXhU6904Vct1w4Q9Lict.jpg" align="right" width="280" height="280" />
+<img src="https://t3.ftcdn.net/jpg/06/84/20/02/360_F_684200229_OfhU5JxvtgL3TXhU6904Vct1w4Q9Lict.jpg" align="right" width="250" height="250" />
   
   <div>
     <h2>Tools</h2>
