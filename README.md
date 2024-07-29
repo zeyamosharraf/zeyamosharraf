@@ -1,4 +1,4 @@
-<h4 align="left">👋 Hi there! I'm Zeya Mosharraf, a passionate data analyst with a background in Industrial Chemistry. I love diving into data to uncover insights and solve complex problems.<br><br>📚 Education: Bachelor's degree in Industrial Chemistry from Delhi University.<br><br>🌱 Currently Learning: Always eager to learn new tools and techniques to enhance my data analysis skills.</h4>
+<h4 align="left">👋 Hi there! I'm Zeya Mosharraf, a passionate data analyst with a knack for uncovering insights and solving complex problems through data. <br><br>💡 I thrive on turning raw data into actionable strategies and visualizations that drive decision-making. <br><br>🚀 Currently, I'm constantly exploring new tools and techniques to stay at the forefront of data analytics. Let's dive into the data-driven world together!</h4>
 
 <div align="left">
   <div>
