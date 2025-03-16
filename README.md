@@ -1,179 +1,55 @@
-<!DOCTYPE html>
-<html lang="en">
+<h4 align="left">👋 Hi there! I'm Zeya Mosharraf, a passionate data analyst with a knack for uncovering insights and solving complex problems through data. <br><br>💡 I thrive on turning raw data into actionable strategies and visualizations that drive decision-making. <br><br>🚀 Currently, I'm constantly exploring new tools and techniques to stay at the forefront of data analytics. Let's dive into the data-driven world together!</h4>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Zeya Mosharraf - GitHub Profile</title>
-    <style>
-        body {
-            font-family: sans-serif;
-            margin: 0;
-            padding: 0;
-            color: #333;
-        }
+<div align="left">
+  <div>
+    <h2>GitHub Stats</h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=zeyamosharraf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats"  />
+    <img src="https://streak-stats.demolab.com?user=zeyamosharraf&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streak"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeyamosharraf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages"  />
+  </div>
 
-        .container {
-            max-width: 960px;
-            margin: 0 auto;
-            padding: 20px;
-        }
-
-        h1,
-        h2 {
-            text-align: left;
-        }
-
-        p {
-            line-height: 1.6;
-            text-align: left;
-        }
-
-        .visual-section {
-            margin-bottom: 20px;
-            text-align: left;
-        }
-
-        .visual-section img {
-            max-width: 400px; /* Adjusted size */
-            height: auto;
-            display: block;
-            margin-top: 10px;
-        }
-
-        .tools-container,
-        .social-container {
-            text-align: left;
-        }
-
-        .tools-container img {
-            height: 40px;
-            margin-right: 10px;
-            margin-bottom: 10px;
-        }
-
-        .social-container a {
-            margin-right: 15px;
-        }
-
-        .social-container img {
-            width: 40px;
-            height: 40px;
-        }
-
-        .footer {
-            text-align: left;
-            font-weight: bold;
-            color: #4A90E2;
-        }
-
-        @media (max-width: 768px) {
-            h1 {
-                font-size: 2em;
-            }
-
-            p {
-                font-size: 1em;
-            }
-
-            h2 {
-                font-size: 1.5em;
-            }
-        }
-
-        .github-stats-container {
-            display: flex;
-            justify-content: flex-start;
-            flex-wrap: wrap;
-            margin-bottom: 20px;
-        }
-
-        .github-stats-container img {
-            flex: 1;
-            min-width: 100px;
-            margin-right: 10px;
-        }
-
-        .github-stats-combined {
-            display: flex;
-            justify-content: flex-start;
-            flex-wrap: wrap;
-        }
-
-        .github-stats-combined img {
-            flex: 1;
-            min-width: 100px; /* Adjusted size */
-            margin-right: 10px;
-        }
-    </style>
-</head>
-
-<body>
-    <div class="container">
-        <h1>👋 Hi, I'm Zeya Mosharraf</h1>
-        <p>A passionate Data Analyst transforming raw data into meaningful insights! 📊</p>
-
-        <div class="visual-section">
-            <h2>🚀 GitHub Stats</h2>
-            <div class="github-stats-container">
-                <img src="https://github-readme-stats.vercel.app/api?username=zeyamosharraf&show_icons=true&theme=tokyonight"
-                    alt="GitHub Stats" />
-                <img src="https://streak-stats.demolab.com?user=zeyamosharraf&theme=tokyonight" alt="GitHub Streak" />
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyamosharraf&layout=compact&theme=tokyonight"
-                    alt="Top Languages" />
-            </div>
-            <div class="github-stats-combined">
-                <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zeyamosharraf&theme=tokyonight&utcOffset=8"
-                    alt="Productive Time" />
-                <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zeyamosharraf&theme=tokyonight"
-                    alt="Repos per Language" />
-            </div>
-        </div>
-
-        <div class="tools-container">
-            <h2>🛠️ Tools & Technologies</h2>
-            <p>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"
-                    alt="Python" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"
-                    alt="MySQL" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-                    height="40" alt="PostgreSQL" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"
-                    alt="NumPy" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"
-                    alt="Pandas" />
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/512px-New_Power_BI_Logo.svg.png"
-                    height="40" alt="Power BI" />
-            </p>
-        </div>
-
-        <div class="social-container">
-            <h2>🔗 Connect with Me</h2>
-            <p>
-                <a href="mailto:zeyamosharraf999@gmail.com" aria-label="Email">
-                    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
-                        alt="Gmail" />
-                </a>
-                <a href="https://www.linkedin.com/in/zeya-mosharraf/" aria-label="LinkedIn">
-                    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
-                        alt="LinkedIn" />
-                </a>
-                <a href="https://linktr.ee/zeyamosharraf" aria-label="Linktree">
-                    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg"
-                        alt="Linktree" />
-                </a>
-                <a href="https://www.hackerrank.com/profile/zeyamosharraf999" aria-label="HackerRank">
-                    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg"
-                        alt="HackerRank" />
-                </a>
-            </p>
-        </div>
-
-        <div class="footer">
-            🚀 Keep Learning, Keep Growing!
-        </div>
+<img src="https://t3.ftcdn.net/jpg/06/84/20/02/360_F_684200229_OfhU5JxvtgL3TXhU6904Vct1w4Q9Lict.jpg" align="right" width="250" height="250" alt="Profile Image" />
+  
+  <div>
+    <h2>Tools</h2>
+    <div align="left">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="Google Cloud"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="Jupyter"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="Kaggle"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="NumPy"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas"  />
+      <img width="12" />
+      <img src="https://pei.com/wp-content/uploads/2016/08/maxresdefaultreduced.jpg" height="30" alt="Power BI"  />
+      <img width="12" />
+      <img src="https://digitalanalystteam.com/wp-content/uploads/2022/11/Google-looker-studio.jpg" height="30" alt="Looker Studio"  />
     </div>
-</body>
+  </div>
+</div>
 
-</html>
+<div align="left">
+  <h2>Social Link</h2>
+  <a href="zeyamosharraf999@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="Gmail"  />
+  </a>
+  <a href="https://www.linkedin.com/in/zeya-mosharraf/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="LinkedIn"  />
+  </a>
+  <a href="https://linktr.ee/zeyamosharraf" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="47" height="35" alt="Linktree"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/zeyamosharraf999" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="47" height="35" alt="HackerRank"  />
+  </a>
+</div>
